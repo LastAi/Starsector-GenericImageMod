@@ -1,0 +1,8 @@
+{
+	"id": "generic_image_mod",
+	"name": "Generic Image Mod",
+	"author": "LastAi",
+	"version": "0.1.0",
+	"description": "A library of generic illustrations (bars, galas, derelicts, markets, stations, colonies, creatures and more) for other mods to use. It adds no content of its own; mods that use its pictures list it as required.",
+	"gameVersion": "0.98a-RC8"
+}
