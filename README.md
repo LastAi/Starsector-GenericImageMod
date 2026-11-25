@@ -1,5 +1,7 @@
 # Generic Image Mod
 
+![Four of the pictures: a gala under a glass dome, a shuttle at a derelict, a market under tarps, a terraforming machine in the ice](preview.png)
+
 A library of generic illustrations for **Starsector 0.98a** mods: bars and galas, derelicts and
 salvage work, markets and landing pads, stations, colonies in dust storms and ice, creatures, and
 more (51 pictures). It adds no content of its own; mods that use its pictures list it as required.
