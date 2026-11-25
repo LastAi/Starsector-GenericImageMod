@@ -8,8 +8,11 @@ more (51 pictures). It adds no content of its own; mods that use its pictures li
 
 ## For players
 
-Install it when a mod needs it: unzip (or copy this folder) into `Starsector/mods/` and enable it in
-the launcher. It only registers pictures, so it is safe to add to or remove from a save.
+Install it when a mod needs it: download the zip for your game from
+[Releases](https://github.com/LastAi/Starsector-GenericImageMod/releases) (`…-0.98a.zip` or
+`…-0.98.5a.zip`; they differ only in the game version the launcher shows), unzip it into
+`Starsector/mods/` and enable it in the launcher. It only registers pictures, so it is safe to add to
+or remove from a save.
 
 ## For modders
 
